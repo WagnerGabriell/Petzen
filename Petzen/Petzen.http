@@ -1,0 +1,6 @@
+@Petzen_HostAddress = http://localhost:5056
+
+GET {{Petzen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
